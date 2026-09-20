@@ -1,0 +1,12 @@
+{
+  "name": "Saturn Aerospace & Cyber Defense Station",
+  "description": "An interactive mission control dashboard monitoring on-chain data links, satellite orbital defenses, and aerospace cybersecurity vectors across the Saturn system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
